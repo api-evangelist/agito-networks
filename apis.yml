@@ -1,23 +1,66 @@
 aid: agito-networks
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/agito-networks.png
 name: Agito Networks
-description: Agito Networks is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Agito Networks was an enterprise mobility and mobile unified communications
+  (UC) company headquartered in Santa Clara, California, with a European
+  presence in Reading, England. Its flagship product, the RoamAnywhere Mobility
+  Router, was a network appliance that fused enterprise wireless LANs, carrier
+  cellular networks, IP telephony, and location technology to extend PBX,
+  deskphone, and unified communications features to mobile phones, providing
+  handover between WiFi, 3G, and cellular networks while remaining agnostic to
+  carrier and equipment vendor. The company was venture-backed by Battery
+  Ventures, Castile Ventures, and ITX International. Agito Networks was acquired
+  by IP telephony provider ShoreTel in 2010 for approximately $11.4 million,
+  adding fixed-mobile convergence to ShoreTel's UC portfolio; ShoreTel was later
+  acquired by Mitel, and the agitonetworks.com domain now redirects to Mitel.
+  The company no longer operates as a standalone entity and publishes no public
+  API, developer portal, or specifications.
 url: https://raw.githubusercontent.com/api-evangelist/agito-networks/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - battery-ventures
+- castile-ventures
+- itx-international
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: acquired-defunct
+x-status: acquired
+x-acquired-by: shoretel
+x-acquired-year: '2010'
+x-acquired-amount-usd: '11400000'
+x-successor: mitel
+x-headquarters: Santa Clara, California, United States
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Unified Communications
+- Enterprise Mobility
+- VoIP
+- Telecommunications
+- Fixed-Mobile Convergence
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
