@@ -42,7 +42,7 @@ x-acquired-year: '2010'
 x-acquired-amount-usd: '11400000'
 x-successor: mitel
 x-headquarters: Santa Clara, California, United States
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
