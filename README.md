@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Agito Networks is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: battery-ventures
+Agito Networks was an enterprise mobility and mobile unified communications (UC) company headquartered in Santa Clara, California, with a European presence in Reading, England. Its flagship product, the RoamAnywhere Mobility Router, was a network appliance that fused enterprise wireless LANs, carrier cellular networks, IP telephony, and location technology to extend PBX, deskphone, and unified communications features to mobile phones, providing handover between WiFi, 3G, and cellular networks while remaining agnostic to carrier and equipment vendor. The company was venture-backed by Battery Ventures, Castile Ventures, and ITX International. Agito Networks was acquired by IP telephony provider ShoreTel in 2010 for approximately $11.4 million, adding fixed-mobile convergence to ShoreTel's UC portfolio; ShoreTel was later acquired by Mitel, and the agitonetworks.com domain now redirects to Mitel. The company no longer operates as a standalone entity and publishes no public API, developer portal, or specifications.
+
+**Areas:** Company · Unified Communications · Enterprise Mobility · VoIP · Telecommunications · Fixed-Mobile Convergence · Acquired · Defunct
+
+## Agito Networks on APIs.io (historical record)
+
+Everything profiled for Agito Networks is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agito-networks/](https://apis.io/providers/agito-networks/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Agito Networks: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agito-networks/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
